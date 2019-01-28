@@ -1,6 +1,6 @@
 # SAST-with-ML
 
-Application Security using Source code testing and Machine Learning.
+Application Security using Source code testing and Machine Learning. A project done in collaboration with [HCL Technologies](https://www.hcltech.com/).
 
 ### Getting started
 All the learning models can be found in the ```models``` folder.
