@@ -50,3 +50,8 @@ We will also be able to test the open-source fuzzers once we have data, so while
 * **Fun-fuzz -** JavaScript-based fuzzer by the Mozilla Organization
 * **OWASP Xenotix XSS Exploit Framework -** XSS detection and exploitation
 
+
+### Future Enhancements
+Quoting the paper titled ALETHEIA: Improving the Usability of Static Security Analysis, the experimental analysis they have used is. “an extensive set of 3,758 security warnings output by a commercial JavaScript security checker when applied to 1,706 HTML pages taken from 675 top-popular Web sites. These Web sites include all Fortune 500 companies, the top 100 Websites”. 
+This was done back in 2014, when security were not as strict as they are today. The issue that we are facing is, most websites that we can scrape code off of, do not add a lot of JavaScript code in-line, which means that we cannot get the desired JavaScript code for testing, or the desired amount of code that we would require to build a preliminary dataset. There are no available databases, so we would like to know how to proceed in this regard.
+
