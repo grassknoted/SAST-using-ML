@@ -2,6 +2,11 @@
 
 Application Security using Source code testing and Machine Learning.
 
+### Getting started
+All the learning models can be found in the ```models``` folder.
+```1. cd models```
+```2. python3 Ensemble_model -t <path_to_code_to_test>```
+
 ### Introduction and Goals
 Static application security testing (SAST) is a set of technologies designed to analyze application source code, byte code and binaries for coding and design conditions that are indicative of security vulnerabilities. SAST solutions analyze an application from the “inside out” in a non-running state. Our goals with respect to this project are:
 
