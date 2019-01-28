@@ -4,7 +4,9 @@ Application Security using Source code testing and Machine Learning.
 
 ### Getting started
 All the learning models can be found in the ```models``` folder.
+
 ```1. cd models```
+
 ```2. python3 Ensemble_model -t <path_to_code_to_test>```
 
 ### Introduction and Goals
